@@ -9,7 +9,7 @@
 <body>
     
     <?php
-        // Esto imprime el html de ese archivo
+        // Esto imprime el HTML de ese archivo
         include './php/_nav.php';
     ?>
 

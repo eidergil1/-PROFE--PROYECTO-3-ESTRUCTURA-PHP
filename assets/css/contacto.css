@@ -57,7 +57,8 @@ nav {
 nav ul {
   display: flex;
   flex-direction: row;
-  column-gap: 2rem;
+  -moz-column-gap: 2rem;
+       column-gap: 2rem;
 }
 nav ul a {
   color: white;
